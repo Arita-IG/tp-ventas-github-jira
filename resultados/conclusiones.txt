@@ -1,0 +1,6 @@
+CONCLUSIONES DEL DATASET
+------------------------
+Cantidad total de registros: 471
+Precio promedio: 13935.07
+Precio máximo: 30450
+Tipo más frecuente: Hatchback
